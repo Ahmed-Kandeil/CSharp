@@ -1,0 +1,14 @@
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.exe
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.deps.json
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.runtimeconfig.json
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.runtimeconfig.dev.json
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.dll
+D:\Coding\c#\homework\Admin\bin\Debug\netcoreapp3.1\Admin.pdb
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.csproj.AssemblyReference.cache
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.AssemblyInfoInputs.cache
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.AssemblyInfo.cs
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.csproj.CoreCompileInputs.cache
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.dll
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.pdb
+D:\Coding\c#\homework\Admin\obj\Debug\netcoreapp3.1\Admin.genruntimeconfig.cache

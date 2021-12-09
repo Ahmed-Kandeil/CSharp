@@ -1,0 +1,13 @@
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.exe
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.deps.json
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.runtimeconfig.json
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.runtimeconfig.dev.json
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.dll
+D:\Coding\c#\homework\Tasks\Date And Time\bin\Debug\netcoreapp3.1\Date And Time.pdb
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.AssemblyInfoInputs.cache
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.AssemblyInfo.cs
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.csproj.CoreCompileInputs.cache
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.dll
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.pdb
+D:\Coding\c#\homework\Tasks\Date And Time\obj\Debug\netcoreapp3.1\Date And Time.genruntimeconfig.cache

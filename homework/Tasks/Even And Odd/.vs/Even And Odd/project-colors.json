@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abd7a9bd-4efb-4293-a9cc-89d3f23b9e03": {
+      "ProjectGuid": "abd7a9bd-4efb-4293-a9cc-89d3f23b9e03",
+      "DisplayName": "Even And Odd",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

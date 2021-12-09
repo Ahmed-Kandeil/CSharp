@@ -1,0 +1,13 @@
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.exe
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.deps.json
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.runtimeconfig.json
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.runtimeconfig.dev.json
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.dll
+D:\Coding\c#\homework\Tasks\Days Of The Week\bin\Debug\netcoreapp3.1\Days Of The Week.pdb
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.AssemblyInfoInputs.cache
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.AssemblyInfo.cs
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.csproj.CoreCompileInputs.cache
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.dll
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.pdb
+D:\Coding\c#\homework\Tasks\Days Of The Week\obj\Debug\netcoreapp3.1\Days Of The Week.genruntimeconfig.cache

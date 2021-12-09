@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a79585f-2269-4c63-8a51-8c868fa775d6": {
+      "ProjectGuid": "7a79585f-2269-4c63-8a51-8c868fa775d6",
+      "DisplayName": "Odd And Even",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
