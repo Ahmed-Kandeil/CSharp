@@ -1,0 +1,14 @@
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.exe
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.deps.json
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.dll
+D:\Coding\C#\homework\Tasks\Alphabetical Order\bin\Debug\netcoreapp3.1\Alphabetical Order.pdb
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.csproj.AssemblyReference.cache
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.dll
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.pdb
+D:\Coding\C#\homework\Tasks\Alphabetical Order\obj\Debug\netcoreapp3.1\Alphabetical Order.genruntimeconfig.cache

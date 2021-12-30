@@ -1,0 +1,13 @@
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.exe
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.deps.json
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.dll
+D:\Coding\C#\homework\Tasks\Vector Sum\bin\Debug\netcoreapp3.1\Vector Sum.pdb
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.dll
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.pdb
+D:\Coding\C#\homework\Tasks\Vector Sum\obj\Debug\netcoreapp3.1\Vector Sum.genruntimeconfig.cache

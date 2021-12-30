@@ -1,0 +1,14 @@
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.exe
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.deps.json
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.dll
+D:\Coding\C#\homework\Tasks\Plural Or Single\bin\Debug\netcoreapp3.1\Plural Or Single.pdb
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.csproj.AssemblyReference.cache
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.dll
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.pdb
+D:\Coding\C#\homework\Tasks\Plural Or Single\obj\Debug\netcoreapp3.1\Plural Or Single.genruntimeconfig.cache

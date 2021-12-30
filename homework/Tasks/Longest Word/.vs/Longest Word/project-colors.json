@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e16ff53-46ec-49ed-a8bf-c43d1b1e128c": {
+      "ProjectGuid": "6e16ff53-46ec-49ed-a8bf-c43d1b1e128c",
+      "DisplayName": "Longest Word",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

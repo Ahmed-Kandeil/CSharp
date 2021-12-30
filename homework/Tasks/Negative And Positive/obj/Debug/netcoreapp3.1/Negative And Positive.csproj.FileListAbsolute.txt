@@ -1,0 +1,13 @@
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.exe
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.deps.json
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.dll
+D:\Coding\C#\homework\Tasks\Negative And Positive\bin\Debug\netcoreapp3.1\Negative And Positive.pdb
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.dll
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.pdb
+D:\Coding\C#\homework\Tasks\Negative And Positive\obj\Debug\netcoreapp3.1\Negative And Positive.genruntimeconfig.cache

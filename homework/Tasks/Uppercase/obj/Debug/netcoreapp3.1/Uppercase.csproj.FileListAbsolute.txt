@@ -1,0 +1,13 @@
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.exe
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.deps.json
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.dll
+D:\Coding\C#\homework\Tasks\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.pdb
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.dll
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.pdb
+D:\Coding\C#\homework\Tasks\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.genruntimeconfig.cache

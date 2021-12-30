@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5afbf722-dab3-43a6-b983-59d3e3034188": {
+      "ProjectGuid": "5afbf722-dab3-43a6-b983-59d3e3034188",
+      "DisplayName": "Remove Specified Characters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

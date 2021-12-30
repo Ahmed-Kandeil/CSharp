@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66a055a5-fb8d-42e6-a8cd-54006fc86568": {
+      "ProjectGuid": "66a055a5-fb8d-42e6-a8cd-54006fc86568",
+      "DisplayName": "Reverse Sentence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

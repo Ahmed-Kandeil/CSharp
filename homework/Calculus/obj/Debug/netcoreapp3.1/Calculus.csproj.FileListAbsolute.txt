@@ -1,0 +1,14 @@
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.exe
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.deps.json
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.runtimeconfig.json
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.runtimeconfig.dev.json
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.dll
+D:\Coding\C#\homework\Calculus\bin\Debug\netcoreapp3.1\Calculus.pdb
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.csproj.AssemblyReference.cache
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.AssemblyInfo.cs
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.dll
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.pdb
+D:\Coding\C#\homework\Calculus\obj\Debug\netcoreapp3.1\Calculus.genruntimeconfig.cache

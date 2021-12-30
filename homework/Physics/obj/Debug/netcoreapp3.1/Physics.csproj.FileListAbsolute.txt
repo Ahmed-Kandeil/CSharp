@@ -1,0 +1,14 @@
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.exe
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.deps.json
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.json
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.dev.json
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.dll
+D:\Coding\C#\homework\Physics\bin\Debug\netcoreapp3.1\Physics.pdb
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.AssemblyReference.cache
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfo.cs
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.dll
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.pdb
+D:\Coding\C#\homework\Physics\obj\Debug\netcoreapp3.1\Physics.genruntimeconfig.cache

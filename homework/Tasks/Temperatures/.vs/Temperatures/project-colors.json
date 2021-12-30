@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1e0f4a2-354b-4cb4-ac27-e9794e0d4bd7": {
+      "ProjectGuid": "f1e0f4a2-354b-4cb4-ac27-e9794e0d4bd7",
+      "DisplayName": "Temperatures",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c28d1c6c-554f-4c83-a25d-96b27ea968d8": {
+      "ProjectGuid": "c28d1c6c-554f-4c83-a25d-96b27ea968d8",
+      "DisplayName": "Multiplication Table",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.exe
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.deps.json
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.runtimeconfig.json
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.runtimeconfig.dev.json
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.dll
+D:\Coding\C#\homework\Linear Algebra\bin\Debug\netcoreapp3.1\Linear Algebra.pdb
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.csproj.AssemblyReference.cache
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.AssemblyInfo.cs
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.dll
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.pdb
+D:\Coding\C#\homework\Linear Algebra\obj\Debug\netcoreapp3.1\Linear Algebra.genruntimeconfig.cache

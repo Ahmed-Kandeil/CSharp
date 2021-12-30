@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a58ae871-21b2-4f6a-b6c9-2bab3c782a59": {
+      "ProjectGuid": "a58ae871-21b2-4f6a-b6c9-2bab3c782a59",
+      "DisplayName": "Vector Sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

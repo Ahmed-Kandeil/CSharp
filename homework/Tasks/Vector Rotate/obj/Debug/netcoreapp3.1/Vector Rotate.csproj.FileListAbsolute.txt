@@ -1,0 +1,13 @@
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.exe
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.deps.json
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.runtimeconfig.json
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.runtimeconfig.dev.json
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.dll
+D:\Coding\C#\homework\Tasks\Vector Rotate\bin\Debug\netcoreapp3.1\Vector Rotate.pdb
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.AssemblyInfoInputs.cache
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.AssemblyInfo.cs
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.csproj.CoreCompileInputs.cache
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.dll
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.pdb
+D:\Coding\C#\homework\Tasks\Vector Rotate\obj\Debug\netcoreapp3.1\Vector Rotate.genruntimeconfig.cache
